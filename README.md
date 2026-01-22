@@ -99,13 +99,13 @@ To provide an interactive tool that:
 
 ###	Screenshots / Demos
 
-* See How Dashboard Look Likes.
+See How Dashboard Look Likes.
 
-*  **🧠 Overview — Main Dashboard
+ **🧠 Overview — Main Dashboard
 ![Dashboard Preview](https://github.com/ZeeshanAli-DA/Adventure-works-Power-bi-Project/blob/main/Adventure%20Works%20Dashboard.PNG)
 
-*  **📦 Product-Level Insights
+ **📦 Product-Level Insights
 ![Dashboard Preview](https://github.com/ZeeshanAli-DA/Adventure-works-Power-bi-Project/blob/main/Product%20Level%20Insights.PNG)
 
-*  **👥 Customer-Level Insights
+ **👥 Customer-Level Insights
 ![Dashboard Preview](https://github.com/ZeeshanAli-DA/Adventure-works-Power-bi-Project/blob/main/Customer%20Level%20Insights.PNG)
