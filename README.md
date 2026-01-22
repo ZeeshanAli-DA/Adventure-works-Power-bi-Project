@@ -100,4 +100,10 @@ To provide an interactive tool that:
 ###	Screenshots / Demos
 
 See How Dashboard Look Likes.
-
+📸 Dashboard Previews
+🧠 Overview — Main Dashboard
+https://github.com/ZeeshanAli-DA/Adventure-works-Power-bi-Project/blob/main/Adventure%20Works%20Dashboard.PNG
+📦 Product-Level Insights
+https://github.com/ZeeshanAli-DA/Adventure-works-Power-bi-Project/blob/main/Product%20Level%20Insights.PNG
+👥 Customer-Level Insights
+https://github.com/ZeeshanAli-DA/Adventure-works-Power-bi-Project/blob/main/Customer%20Level%20Insights.PNG
